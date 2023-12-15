@@ -1,3 +1,6 @@
+# Due to the closure of the CS144 course website, a backup copy is hereby made.
+# CS144 的课程网站突然挂了，做一个备份在这。
+---
 # CS144 : Computer Networks
 
 This repository contains all the learning materials for Stanford CS144 course : Computer Networks, you can go to the [initial website](https://cs144.github.io) to get more guidance.
